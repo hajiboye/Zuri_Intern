@@ -1,0 +1,19 @@
+{
+  "name": "fsass",
+  "version": "1.0.0",
+  "description": "fetching a json file and writing it...",
+  "main": "Ass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajiboye Oyerinde",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
